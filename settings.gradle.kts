@@ -1,3 +1,4 @@
 
-rootProject.name = "MarkNote"
+rootProject.name = "markNote"
 
+include("m1l1-quickstart")
